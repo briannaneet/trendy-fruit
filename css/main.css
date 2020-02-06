@@ -24,10 +24,26 @@ body {
   background-color: #e97065;
 }
 
+.watermelon h2 {
+  font-family: "Rammetto One", sans-serif;
+}
+
 .starfruit {
   background-color: #fbd25e;
 }
 
+.starfruit h2 {
+  font-family: "Gravitas One", serif;
+}
+
 .persimmon {
   background-color: #e86033;
+}
+
+.persimmon h2 {
+  font-family: "Comfortaa", sans-serif;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
 }
